@@ -1,0 +1,29 @@
+# Installed dependencies (restore with npm ci)
+/node_modules/
+
+# Generated site, offline HTML, portable ZIP and build scratch
+/outputs/
+/work/
+/dist/
+
+# Local secrets; retain sanitized templates if added later
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs and caches
+*.log
+npm-debug.log*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vite/
+
+# OS / editor local files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

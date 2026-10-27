@@ -1,0 +1,652 @@
+{
+  "swiss": [
+    {
+      "name": "Signal Red",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F4ED",
+        "#17212B",
+        "#E34B3F",
+        "#C8D8E8",
+        "#697783"
+      ],
+      "id": "signal-red"
+    },
+    {
+      "name": "Cobalt Grid",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F8FAFC",
+        "#111827",
+        "#1D4ED8",
+        "#0F766E",
+        "#94A3B8"
+      ],
+      "id": "cobalt-grid"
+    }
+  ],
+  "bauhaus": [
+    {
+      "name": "Primary Study",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F4EFE2",
+        "#1A1A1A",
+        "#D52B27",
+        "#F1C40F",
+        "#2455A4"
+      ],
+      "id": "primary-study"
+    },
+    {
+      "name": "Chalk & Signal",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FCFBF7",
+        "#263238",
+        "#D1495B",
+        "#F0B429",
+        "#2A9D8F"
+      ],
+      "id": "chalk-signal"
+    }
+  ],
+  "editorial": [
+    {
+      "name": "Paper & Wine",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F6F1E9",
+        "#27313A",
+        "#A33B52",
+        "#D9B08C",
+        "#75808A"
+      ],
+      "id": "paper-wine"
+    },
+    {
+      "name": "Ink & Ochre",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FBF7F0",
+        "#202020",
+        "#B66A2C",
+        "#3A6B72",
+        "#D8D2C4"
+      ],
+      "id": "ink-ochre"
+    }
+  ],
+  "minimal": [
+    {
+      "name": "Black on White",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFFFFF",
+        "#111111",
+        "#D14D3F",
+        "#DDE3E8",
+        "#6B7280"
+      ],
+      "id": "black-on-white"
+    },
+    {
+      "name": "Warm Quiet",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F3ED",
+        "#252525",
+        "#6E7F67",
+        "#C8B6A6",
+        "#8B8580"
+      ],
+      "id": "warm-quiet"
+    }
+  ],
+  "east-asian": [
+    {
+      "name": "Ink & Clay",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F2EFE9",
+        "#26363B",
+        "#C8795B",
+        "#B7B09C",
+        "#6C7A73"
+      ],
+      "id": "ink-clay"
+    },
+    {
+      "name": "Mist & Pine",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#EEF1EE",
+        "#24332E",
+        "#6C8066",
+        "#D1BDA8",
+        "#A7B6C2"
+      ],
+      "id": "mist-pine"
+    }
+  ],
+  "information": [
+    {
+      "name": "Evidence",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F6F7F9",
+        "#16324F",
+        "#147D82",
+        "#E9A23B",
+        "#D95D39"
+      ],
+      "id": "evidence"
+    },
+    {
+      "name": "Signal Map",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFFFFF",
+        "#1E293B",
+        "#2563EB",
+        "#16A34A",
+        "#DC2626"
+      ],
+      "id": "signal-map"
+    }
+  ],
+  "academic-modern": [
+    {
+      "name": "Seminar Blue",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F8FA",
+        "#1E3A5F",
+        "#2E5F8A",
+        "#C98B4A",
+        "#8C99A6"
+      ],
+      "id": "seminar-blue"
+    },
+    {
+      "name": "Research Green",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F5F7F2",
+        "#243B35",
+        "#3E7C59",
+        "#C78652",
+        "#A9B7AD"
+      ],
+      "id": "research-green"
+    }
+  ],
+  "technical": [
+    {
+      "name": "Terminal",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#0B0F14",
+        "#E6EDF3",
+        "#00A6A6",
+        "#8BC34A",
+        "#778899"
+      ],
+      "id": "terminal"
+    },
+    {
+      "name": "Midnight Blue",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#111827",
+        "#F3F4F6",
+        "#38BDF8",
+        "#A78BFA",
+        "#94A3B8"
+      ],
+      "id": "midnight-blue"
+    }
+  ],
+  "constructivism": [
+    {
+      "name": "Red Poster",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F0E7D2",
+        "#171717",
+        "#CE2D2D",
+        "#E2B13C",
+        "#6F7378"
+      ],
+      "id": "red-poster"
+    },
+    {
+      "name": "Black & Signal",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFFFFF",
+        "#111111",
+        "#E11D48",
+        "#334155",
+        "#F59E0B"
+      ],
+      "id": "black-signal"
+    }
+  ],
+  "destijl": [
+    {
+      "name": "Primary Grid",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F9F9F4",
+        "#141414",
+        "#E63946",
+        "#F1C40F",
+        "#1D4ED8"
+      ],
+      "id": "primary-grid"
+    },
+    {
+      "name": "Quiet Grid",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFFFFF",
+        "#1F2937",
+        "#C2413B",
+        "#C7A32D",
+        "#48739B"
+      ],
+      "id": "quiet-grid"
+    }
+  ],
+  "new-wave": [
+    {
+      "name": "Electric Type",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F4ED",
+        "#151515",
+        "#FF4D6D",
+        "#00C2FF",
+        "#F9D56E"
+      ],
+      "id": "electric-type"
+    },
+    {
+      "name": "Acid Paper",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F2F4F0",
+        "#171717",
+        "#8B5CF6",
+        "#F97316",
+        "#0EA5E9"
+      ],
+      "id": "acid-paper"
+    }
+  ],
+  "risograph": [
+    {
+      "name": "Ink Overprint",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F4F1DE",
+        "#292524",
+        "#E85D75",
+        "#F6BD60",
+        "#2A9D8F"
+      ],
+      "id": "ink-overprint"
+    },
+    {
+      "name": "Blueberry Print",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F6F1E9",
+        "#1E293B",
+        "#4F46E5",
+        "#D946EF",
+        "#F59E0B"
+      ],
+      "id": "blueberry-print"
+    }
+  ],
+  "neo-brutalism": [
+    {
+      "name": "Hard Yellow",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F5F5F4",
+        "#111111",
+        "#FACC15",
+        "#FB7185",
+        "#60A5FA"
+      ],
+      "id": "hard-yellow"
+    },
+    {
+      "name": "Paper Green",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F6F4E8",
+        "#18181B",
+        "#84CC16",
+        "#F97316",
+        "#A78BFA"
+      ],
+      "id": "paper-green"
+    }
+  ],
+  "organic": [
+    {
+      "name": "Moss & Clay",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#EDE6D6",
+        "#243B35",
+        "#6B8066",
+        "#C97B63",
+        "#B7A98C"
+      ],
+      "id": "moss-clay"
+    },
+    {
+      "name": "Field Notes",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F5F1E8",
+        "#2F3A32",
+        "#8B9A6B",
+        "#C49A6C",
+        "#7D6B5D"
+      ],
+      "id": "field-notes"
+    }
+  ],
+  "art-deco": [
+    {
+      "name": "Midnight Gold",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#0B132B",
+        "#F2E9E4",
+        "#D4AF37",
+        "#6C5B7B",
+        "#C06C84"
+      ],
+      "id": "midnight-gold"
+    },
+    {
+      "name": "Ivory Brass",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F8F3E7",
+        "#1F2937",
+        "#B7791F",
+        "#9F1239",
+        "#64748B"
+      ],
+      "id": "ivory-brass"
+    }
+  ],
+  "streamline": [
+    {
+      "name": "Aero Blue",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F1FAEE",
+        "#17324D",
+        "#E9C46A",
+        "#457B9D",
+        "#E76F51"
+      ],
+      "id": "aero-blue"
+    },
+    {
+      "name": "Chrome Route",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F8FAFC",
+        "#1E293B",
+        "#94A3B8",
+        "#F59E0B",
+        "#0F766E"
+      ],
+      "id": "chrome-route"
+    }
+  ],
+  "pop-art": [
+    {
+      "name": "Comic Signal",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFFDF5",
+        "#111111",
+        "#FF3B30",
+        "#FFD60A",
+        "#0057FF"
+      ],
+      "id": "comic-signal"
+    },
+    {
+      "name": "Screen Print",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F8FAFC",
+        "#111827",
+        "#EC4899",
+        "#F97316",
+        "#14B8A6"
+      ],
+      "id": "screen-print"
+    }
+  ],
+  "postmodern": [
+    {
+      "name": "Cultural Collision",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F3E3",
+        "#202124",
+        "#6C2E8F",
+        "#FF7F11",
+        "#2EC4B6"
+      ],
+      "id": "cultural-collision"
+    },
+    {
+      "name": "Archive Mix",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F4F0E6",
+        "#2B2D42",
+        "#D1495B",
+        "#E9C46A",
+        "#457B9D"
+      ],
+      "id": "archive-mix"
+    }
+  ],
+  "memphis": [
+    {
+      "name": "Pastel Geometry",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFF8F0",
+        "#202124",
+        "#F78FB3",
+        "#F9D56E",
+        "#6C5CE7"
+      ],
+      "id": "pastel-geometry"
+    },
+    {
+      "name": "Playful Contrast",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7F4ED",
+        "#1F2937",
+        "#EC4899",
+        "#14B8A6",
+        "#F97316"
+      ],
+      "id": "playful-contrast"
+    }
+  ],
+  "y2k": [
+    {
+      "name": "Chrome Future",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#0A0A0A",
+        "#E9EEF5",
+        "#00D4FF",
+        "#FF6EC7",
+        "#C0C0C0"
+      ],
+      "id": "chrome-future"
+    },
+    {
+      "name": "Web 1.0 Bright",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F7FAFC",
+        "#111827",
+        "#2563EB",
+        "#DB2777",
+        "#7C3AED"
+      ],
+      "id": "web-1-0-bright"
+    }
+  ],
+  "retro-futurism": [
+    {
+      "name": "Space Age",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#2B2D42",
+        "#F7F7F2",
+        "#FF6B35",
+        "#4CC9F0",
+        "#F4D35E"
+      ],
+      "id": "space-age"
+    },
+    {
+      "name": "Orbital Paper",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#F6F4EE",
+        "#22223B",
+        "#E76F51",
+        "#3A86FF",
+        "#FFBE0B"
+      ],
+      "id": "orbital-paper"
+    }
+  ],
+  "glass": [
+    {
+      "name": "Frosted Blue",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#EAF1FF",
+        "#17212B",
+        "#8B5CF6",
+        "#38BDF8",
+        "#FFFFFF"
+      ],
+      "id": "frosted-blue"
+    },
+    {
+      "name": "Warm Glass",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFF7ED",
+        "#292524",
+        "#F97316",
+        "#EC4899",
+        "#FFFFFF"
+      ],
+      "id": "warm-glass"
+    }
+  ],
+  "neumorphism": [
+    {
+      "name": "Soft Relief",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#E4E8EC",
+        "#263238",
+        "#6B7280",
+        "#4F9DA6",
+        "#FFFFFF"
+      ],
+      "id": "soft-relief"
+    },
+    {
+      "name": "Warm Relief",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#EEE8E0",
+        "#3F3A36",
+        "#B08968",
+        "#7B9E87",
+        "#FFFFFF"
+      ],
+      "id": "warm-relief"
+    }
+  ],
+  "clay": [
+    {
+      "name": "Soft Toy",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FDF4EC",
+        "#27303A",
+        "#F97316",
+        "#60A5FA",
+        "#A78BFA"
+      ],
+      "id": "soft-toy"
+    },
+    {
+      "name": "Pastel Clay",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#FFF7ED",
+        "#334155",
+        "#FB7185",
+        "#34D399",
+        "#FBBF24"
+      ],
+      "id": "pastel-clay"
+    }
+  ],
+  "cyberpunk": [
+    {
+      "name": "Neon Circuit",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#080B13",
+        "#E5E7EB",
+        "#22D3EE",
+        "#F472B6",
+        "#A3E635"
+      ],
+      "id": "neon-circuit"
+    },
+    {
+      "name": "Violet Warning",
+      "note": "为 HTML 演示改编的灵感配色；非历史标准色。",
+      "colors": [
+        "#111827",
+        "#F9FAFB",
+        "#8B5CF6",
+        "#F43F5E",
+        "#FACC15"
+      ],
+      "id": "violet-warning"
+    }
+  ]
+}
